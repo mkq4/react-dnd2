@@ -1,0 +1,24 @@
+.addTaskArea {
+
+}
+
+.allTasks {
+    display: flex;
+    gap: 20px;
+}
+
+.addTaskInput {
+
+}
+
+.main {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addTaskArea {
+    margin-bottom: 60px;
+}
